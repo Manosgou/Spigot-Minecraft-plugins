@@ -1,0 +1,7 @@
+name: TeleportGUI
+version: ${project.version}
+main: me.manosgou.teleportgui.TeleportGUI
+api-version: 1.17
+commands:
+  teleport:
+    description: Teleportation gui
