@@ -1,0 +1,4 @@
+name: JoinLeaveMessage
+version: ${project.version}
+main: me.manosgou.joinleavemessage.JoinLeaveMessage
+api-version: 1.17
