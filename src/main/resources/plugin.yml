@@ -1,0 +1,4 @@
+name: Tombstone
+version: ${project.version}
+main: me.manosgou.tombstone.Tombstone
+api-version: 1.17
