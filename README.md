@@ -19,3 +19,10 @@ Commands
 
 Screenshots
 --------
+![Players list](/screenshots/image2.png?raw=true)
+![Teleport request](/screenshots/image1.png?raw=true)
+
+
+⚠️ IMPORTANT ⚠️
+--------
+This plugin is designed for a small server,not for more than 20 players.It is absolutely reasonable not to work on your 100 players server.The gui can only fit 54 players at maximum which are and the available slots of a minecraft inventory.
