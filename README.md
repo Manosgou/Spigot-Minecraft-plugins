@@ -8,14 +8,14 @@ This spigot plugin places a sign on the block you just died and also saves all o
 Plugin requirements
 --------
 * **Java 16 is required**. On older versions, the plugin may not work properly.
-* **Supports minecraft version 1.17**
+* Supports minecraft version **1.17**
 
 
 Screenshots
 --------
 
-![Alt text](/screenshots/image1.png?raw=true)
+![Sign with no chests](/screenshots/image1.png?raw=true)
 
-![Alt text](/screenshots/image2.png?raw=true)
+![Sign with one chest](/screenshots/image2.png?raw=true)
 
-![Alt text](/screenshots/image3.png?raw=true)
+![Sign with two chests](/screenshots/image3.png?raw=true)
