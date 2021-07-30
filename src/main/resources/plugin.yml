@@ -1,0 +1,7 @@
+name: PlayerStats
+version: ${project.version}
+main: me.manosgou.playerstats.PlayerStats
+api-version: 1.17
+commands:
+  stats:
+    description: Player stats scoreboard
